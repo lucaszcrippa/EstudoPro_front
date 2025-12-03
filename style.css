@@ -313,3 +313,16 @@ footer {
         gap: 15px;
     }
 }
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* espaço entre a logo e o texto */
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.logo img {
+    height: 40px; /* ajuste o tamanho como quiser */
+    width: auto;
+    border-radius: 50%;
+}
